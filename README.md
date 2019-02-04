@@ -3,10 +3,10 @@
 
 ### NLP100
 言語処理100本ノック(http://www.cl.ecei.tohoku.ac.jp/nlp100/)
-- Required: Chapter 1, 2, 4, 8
 - Recommended: Chapter 3, 5, 6, 7 (予定)
 - 01_WarmUp: Chapter1 準備運動
 - 02_UnixCmd: Chapter2 UNIXコマンドの基礎
+- 04_Morphs: Chapter4 形態素解析
 - 08_MachineLearning: Chapter8 機械学習
 - 09_Vector: Chapter9 ベクトル空間法(1) ・・・学習失敗
 - 10_Word2Vec: Chapter10 ベクトル空間法(2)
